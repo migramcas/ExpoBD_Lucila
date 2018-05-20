@@ -1,0 +1,27 @@
+TEMAS:
+
+1)Historia
+2) qué es el diseño físico de la BD
+3) Jerarquía de los medios de almacenamiento y cómo funcionan
+4)Conceptos básicos: tecnología RAID, archivos o ficheros, y registros
+5)Rendimiento
+6)Organización de archivos y métodos de direccionamiento
+  6.1)Heap
+  6.2)Ficheros Secuenciales
+  6.3)Hash
+  6.4)ISAM
+  6.5)Árboles B
+  6.6)Clúster
+  6.7)Indice de mapa de bits
+
+
+  DISTRIBUCIÓN:
+  
+ NOMBRE | TEMAS
+ 
+LORE   -> 1, 5, 6.5
+PATO    -> 2, 6.1, 6.2,6.6
+MIGUEL   ->  3, 6.3, 6.7
+GERRY   ->  4, 6.4
+
+
